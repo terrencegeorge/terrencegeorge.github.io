@@ -41,10 +41,10 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Visiting Professor
-      institution: 
-      year: 1933
-      description:
+    - title: Math 465: Introduction to Combinatorics
+      institution: Sections 001 and 002
+      year: 2023
+      description: 
 
 
     - title: Director
