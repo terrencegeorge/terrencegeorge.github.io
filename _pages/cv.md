@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: /teaching/
+permalink: /cv/
 title: Teaching
 nav: true
 nav_order: 2
