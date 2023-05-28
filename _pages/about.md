@@ -8,10 +8,8 @@ profile:
   align: right
   image: #prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: # >
-    #<p>4860</p>
-    #<p>East Hall</p>
-    #<p>Ann Arbor, MI 48104</p>
+  address:  4860 East Hall
+  georgete at umich dot edu
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
