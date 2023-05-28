@@ -7,12 +7,19 @@ years:
 nav: true
 nav_order: 2
 ---
-<!-- _pages/publications.md -->
-<div class="publications">
 
-{%- for y in page.years %}
-  <h2 class="year">{{y}}</h2>
-  {% bibliography -f {{ site.scholar.bibliography }} -q @*[year={{y}}]* %}
-{% endfor %}
+## Journal Articles
 
-</div>
+{% bibliography -q @article %}
+
+## Book Chapters
+
+{% bibliography -q @inbook %}
+
+## Conferences and Workshops
+
+{% bibliography -q @inproceedings %}
+
+## Manuscripts
+
+{% bibliography -q @phdthesis %}
