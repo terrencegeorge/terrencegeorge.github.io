@@ -8,7 +8,7 @@ nav: true
 nav_order: 1
 ---
 ## Published Articles
-<div class="publications">
+<div  padding: 25px 50px 75px 100px; class="publications">
 {% bibliography -q @article %}
 </div>
 
