@@ -2,7 +2,8 @@
 layout: about
 title: Home
 permalink: /
-subtitle: #<a href='#'>Affiliations</a>. Postdoctoral Assistant Professor, University of Michigan.
+subtitle: <a href='#'>Office</a>. 4860 East Hall.
+subtitle: <a href='#'>Email</a>. georgete at umich dot edu.
 
 profile:
   align: right
