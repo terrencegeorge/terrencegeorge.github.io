@@ -2,7 +2,7 @@
 layout: cv
 permalink: /cv/
 title: Teaching
-nav: true
-nav_order: 2
+nav: false
+nav_order: 3
 cv_pdf: 
 ---
