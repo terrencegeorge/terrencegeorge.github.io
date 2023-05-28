@@ -7,12 +7,12 @@ years:
 nav: true
 nav_order: 2
 ---
-<div class="publications">
 ## Published Articles
-
+<div class="publications">
 {% bibliography -q @article %}
+</div>
 
 ## Manuscripts
-
+<div class="publications">
 {% bibliography -q @misc %}
 </div>
