@@ -9,18 +9,18 @@ nav_order: 3
 ---
 
 <ol reversed>
-<li>Banff International Research Station workshop in Analytic and Probabilistic Combinatorics, 2022, [video](https://www.birs.ca/events/2022/5-day-workshops/22w5004/videos/watch/202211171433-George.html)</li>
+<li>Banff International Research Station workshop in Analytic and Probabilistic Combinatorics, 2022, <a href="https://www.birs.ca/events/2022/5-day-workshops/22w5004/videos/watch/202211171433-George.html">video</a></li>
 <li>Seminar, Tata Institute of FR-CAM, 2022</li>
 <li>Colloquium, Indian Statistical Institute, Bangalore, 2022</li>
 <li>ICTS conference in Combinatorial algebraic geometry-real and tropical, 2022, <a href="https://www.youtube.com/watch?v=tccmW_b9afQ&amp;ab_channel=InternationalCentreforTheoreticalSciences">video</a> </li>
 <li>Integrable probability seminar, MIT, 2022</li>
 <li>JMM in Combinatorial applications of computational geometry and algebraic topology, 2022</li>
 <li>Combinatorics seminar, University of Minnesota, 2022</li>
-<li>Combinatorics seminar, UCLA, 2021, [video](https://www.youtube.com/watch?v=t0mFyJK1k1k) </li>
+<li>Combinatorics seminar, UCLA, 2021, <a href="https://www.youtube.com/watch?v=t0mFyJK1k1k&amp;ab_channel=UCLACombinatoricsSeminar">video</a> </li>
 <li>Random matrix theory seminar, KTH, 2021</li>
 <li>Combinatorics seminar, University of Michigan, 2021</li>
 <li>Algebraic and enumerative combinatorics seminar, University of Waterloo, 2021</li>
-<li>Clusters and geometry seminar, Yale, 2021, [video](https://drive.google.com/file/d/1gdcItx4hFgJ1TkDOWPdXfM8JJLuynMG5/view)</li>
+<li>Clusters and geometry seminar, Yale, 2021, <a href="https://drive.google.com/file/d/1gdcItx4hFgJ1TkDOWPdXfM8JJLuynMG5/view">video</a></li>
 <li>Oberwolfach Mini-Workship in Dimers,Ising and Spanning Trees beyond the Critical Isoradial Case, 2020.</li>
 <li>Combinatorics seminar, University of Michigan, 2020</li>
 <li>Probability seminar, Cornell, 2020</li>
