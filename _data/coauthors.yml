@@ -3,7 +3,28 @@
     url: https://www.math.ucla.edu/~galashin/
     
 
-
 "Affolter":
   - firstname: ["Niklas", "N."]
     url: https://page.math.tu-berlin.de/~affolter/
+
+"Kenyon":
+  - firstname: ["Richard", "R."]
+    url: https://gauss.math.yale.edu/~rwk25/  
+
+"Goncharov":
+  - firstname: ["Alexander", "A."]
+    url: https://users.math.yale.edu/users/goncharov/  
+
+"Speyer":
+  - firstname: ["David", "D.", "David E"]
+    url: http://www-personal.umich.edu/~speyer/      
+
+"Chepuri":
+  - firstname: ["Sunita", "S."]
+    url: https://sites.google.com/view/sunita-chepuri/home     
+
+"Ramassamy":
+  - firstname: ["Sanjay", "S."]
+    url: https://www.normalesup.org/~ramassamy/   
+
+    
