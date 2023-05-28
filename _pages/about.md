@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Affiliations</a>. Postdoctoral Assistant Professor, University of Michigan.
 
 profile:
   align: right
