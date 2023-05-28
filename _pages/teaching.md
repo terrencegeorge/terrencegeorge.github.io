@@ -1,12 +1,8 @@
 ---
-layout: page
+layout: cv
 permalink: /teaching/
 title: Teaching
-description: 
 nav: false
 nav_order: 
+cv_pdf: 
 ---
-
-## University of Michigan
-
-## Brown University
