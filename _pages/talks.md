@@ -9,6 +9,9 @@ nav_order: 3
 ---
 
 <ol reversed>
+<li>Discrete differential geometry seminar, TU Berlin, 2023</li>
+<li>Dimers2023 : DIMERS ANR final conference, 2023</li>
+<li>Algebra and Combinatorics seminar, Indian Institute of Science, 2023</li>
 <li>Banff International Research Station workshop in Analytic and Probabilistic Combinatorics, 2022, <a href="https://www.birs.ca/events/2022/5-day-workshops/22w5004/videos/watch/202211171433-George.html">video</a></li>
 <li>Seminar, Tata Institute of FR-CAM, 2022</li>
 <li>Colloquium, Indian Statistical Institute, Bangalore, 2022</li>
@@ -29,7 +32,7 @@ nav_order: 3
 <li>Integrable probability seminar, Columbia University, 2019</li>
 <li>Combinatorics seminar, Yale University, 2019</li>
 <li>Algebra and Combinatorics seminar, Indian Institute of Science, 2019</li>
-<li> ICTS conference in Universality in random structures: Interfaces, matrices, sandpiles, 2019</li>
+<li>ICTS conference in Universality in random structures: Interfaces, matrices, sandpiles, 2019</li>
 <li>Seminar, Indian Institute of Science, 2018</li>
 <li>Bangalore probability seminar, Indian Statistical Institute, Bangalore, 2018</li>
 <li>Discrete math seminar, Brown University, 2018</li>
