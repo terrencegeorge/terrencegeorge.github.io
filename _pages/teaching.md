@@ -6,12 +6,13 @@ nav: true
 nav_order: 2
 
 ---
-<h1> Current teaching </h1>
+<h2> Current teaching </h2>
 <ul>
     <li> Fall 2023: Math 218A-Discrete Mathematics: Probabilistic Methods</li>
     <li> Fall 2023: Math 180-Graph Theory </li>
 </ul>
-<h1> Past teaching </h1>
+<h2> Past teaching </h2>
+<h2> University of Michigan </h2>
 <p style="margin-left: -50px; font-size:16px;"><b>University of Michigan</b>:</p>
 <ul>
 <li> Winter 2023: Math 465-Introduction to Combinatorics x 2</li>
