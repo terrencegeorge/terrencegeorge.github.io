@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /teaching/
-title: Math 218A-Discrete Mathematics: Probabilistic Methods (Fall 2023)
+permalink: /teaching/Math218A/
+title: Math 218A-Discrete Mathematics
 nav: false
 nav_order: 
 
