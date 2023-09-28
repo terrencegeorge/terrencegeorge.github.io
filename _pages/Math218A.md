@@ -19,7 +19,7 @@ nav_order:
 <ul> 
 <li> N. Alon and J. Spencer, <em>The Probabilistic Method </em>, Wiley, 2016. </li>
 <li> S. Jukna, <em>Extremal combinatorics. With Applications in Computer Science </em> (second edition), Springer, 2011.</li>
-<li> Yufei Zhao's <a href="https://yufeizhao.com/pm/">lecture notes</a>.
+<li> Yufei Zhao's <a href="https://yufeizhao.com/pm/">lecture notes</a>. </li>
 </ul>
 </p>
 <p class="noindent">
