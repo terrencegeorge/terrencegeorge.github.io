@@ -1,14 +1,14 @@
 ---
 layout: page
 permalink: /teaching/Math218A/
-title: Math 218A-Discrete Mathematics
+title: Math 218A-Discrete Mathematics: Probabilistic Methods
 nav: false
 nav_order: 
 
 ---
 
 
-<p class="noindent"><span class="subsubsectionHead"><a id="x1-2000"></a><span class="cmti-12">Instructor:</span></span> <a href="https://terrencegeorge.github.io/">Terrence George</a> (tegeorge at math dot ucla dot edu). Please put "218A" into the subject line.
+<p class="noindent"><span class="subsubsectionHead"><a id="x1-2000"></a><span class="cmti-12"><b>Instructor:</b></span></span> <a href="https://terrencegeorge.github.io/">Terrence George</a> (tegeorge at math dot ucla dot edu). Please put "218A" into the subject line.
 <!--l. 22--></p>
 <p class="noindent"><span class="subsubsectionHead"><a id="x1-3000"></a><span class="cmti-12">Time and location:</span></span> MWF 2pm-2:50pm, Mathematical Sciences Room 5137</p>
 <p class="noindent"><span class="subsubsectionHead"><a id="x1-4000"></a><span class="cmti-12">Grading:</span></span> Based on several homework problem sets.
