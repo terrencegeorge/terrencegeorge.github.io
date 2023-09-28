@@ -9,7 +9,7 @@ nav_order: 2
 <h2> Current teaching </h2>
 <h4> UCLA </h4>
 <ul>
-    <li> Fall 2023: Math 218A-Discrete Mathematics: Probabilistic Methods</li>
+    <li> Fall 2023: Math 218A-Discrete Mathematics: Probabilistic Methods (<a href="/teaching/Math218A">class webpage</a>)</li>
     <li> Fall 2023: Math 180-Graph Theory </li>
 </ul>
 <h2> Past teaching </h2>
