@@ -9,8 +9,8 @@ nav_order: 2
 <h2> Current teaching </h2>
 <h4> UCLA </h4>
 <ul>
-    <li> Fall 2024: Math 61-Introduction to Discrete Structures</li>
-    <li> Fall 2024: Math 180-Graph Theory </li>
+    <li> Winter 2024: Math 61-Introduction to Discrete Structures</li>
+    <li> Winter 2024: Math 180-Graph Theory </li>
     <li> Fall 2023: Math 218A-Discrete Mathematics: Probabilistic Methods </li>
     <li> Fall 2023: Math 180-Graph Theory </li>
 </ul>
