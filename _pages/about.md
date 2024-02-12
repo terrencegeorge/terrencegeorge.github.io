@@ -22,4 +22,4 @@ I work on problems in the intersection of combinatorics, algebraic geometry and 
 
 I received my PhD from Brown University in 2020 advised by [Rick Kenyon](https://gauss.math.yale.edu/~rwk25/) and was a Postdoctoral Assistant Professor at the University of Michigan from 2020 to 2023 where my mentor was [David Speyer](http://www-personal.umich.edu/~speyer/).
 
-I am coorganizing [SoCalDM 2024](https://sites.google.com/view/socaldm2024/home) at UCLA.
+With [Pavel Galashin](https://www.math.ucla.edu/~galashin/), [Igor Pak](https://www.math.ucla.edu/~pak/) and [Colleen Robichaux](https://www.math.ucla.edu/~robichaux/), I am coorganizing the [Combinatorics Forum](https://www.math.ucla.edu/~galashin/ucla_comb_sem.html) and [SoCalDM 2024](https://sites.google.com/view/socaldm2024/home) at UCLA.
