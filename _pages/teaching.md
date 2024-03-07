@@ -15,7 +15,7 @@ nav_order: 2
 <h2> Past teaching </h2>
 <h4> UCLA </h4>
 <ul>
-    <li> Winter 2024: Math 180-Graph Theory </li>
+    <li> Fall 2023: Math 218A-Probabilistic Method </li>
     <li> Fall 2023: Math 180-Graph Theory </li>
 </ul>
 <h4> University of Michigan </h4>
