@@ -32,5 +32,5 @@ nav_order: 2
 <li> Fall 2018: Math 90-Introductory Calculus I </li>
 <li> Fall 2017: Math 200-Intermediate Calculus (for Physics/Engineering) </li>
 <li> Spring 2017: Math 200-Intermediate Calculus (for Physics/Engineering) </li>
-<li> Fall 2016: Math 100 Introductor Calculus I </li>
+<li> Fall 2016: Math 100 Introductory Calculus I </li>
 </ul>  
