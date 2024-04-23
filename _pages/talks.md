@@ -9,6 +9,8 @@ nav_order: 3
 ---
 
 <ol reversed>
+<li>Workshop I: Statistical Mechanics and Discrete Geometry, IPAM, 2024  <a href="https://www.youtube.com/watch?v=gIrvEMnSzkM">video</a></li>
+<li>Geometry, Statistical Mechanics, and Integrability Tutorials, IPAM, 2024  <a href="https://www.youtube.com/watch?v=IGP9meEIjpc&t=3550s">video</a></li>
 <li>Combinatorics Forum, UCLA, 2023 </li>
 <li>Discrete differential geometry seminar, TU Berlin, 2023</li>
 <li>Dimers2023: DIMERS ANR final conference, Sorbonne, 2023</li>
