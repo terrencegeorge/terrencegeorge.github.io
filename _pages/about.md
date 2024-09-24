@@ -24,4 +24,4 @@ I received my PhD from Brown University in 2020 advised by [Rick Kenyon](https:/
 
 With [Pavel Galashin](https://www.math.ucla.edu/~galashin/), [Igor Pak](https://www.math.ucla.edu/~pak/) and [Colleen Robichaux](https://www.math.ucla.edu/~robichaux/), I am coorganizing the [Combinatorics Forum](https://www.math.ucla.edu/~galashin/ucla_comb_sem.html) and [SoCalDM 2024](https://sites.google.com/view/socaldm2024/home) at UCLA.
 
-I am on the job market in Fall 2024. Here is my [CV](CV.pdf) and [Research Statment](Research_statement.pdf).
+I am on the job market in Fall 2024. Here is my [CV](CV.pdf) and [Research Statment](RS.pdf).
