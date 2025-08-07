@@ -9,6 +9,8 @@ nav_order: 3
 ---
 
 <ol reversed>
+<li>Colloquium, ISI Bangalore, 2025 </li>
+<li>Information, Geometry and Physics seminar, Caltech, 2025 </li>
 <li>Conference: Discrete Differential Geometry and Dimers 2024, Berlin </li>
 <li>Workshop I: Statistical Mechanics and Discrete Geometry, IPAM, 2024,  <a href="https://www.youtube.com/watch?v=gIrvEMnSzkM">video</a></li>
 <li>Geometry, Statistical Mechanics, and Integrability Tutorials, IPAM, 2024,  <a href="https://www.youtube.com/watch?v=IGP9meEIjpc&t=3550s">video</a></li>
