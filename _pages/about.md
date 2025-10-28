@@ -22,4 +22,4 @@ I am a Postdoctoral Associate at MIT where my mentor is [Alexei Borodin](https:/
 
 I received my PhD from Brown University in 2020 advised by [Rick Kenyon](https://gauss.math.yale.edu/~rwk25/). I was a Postdoctoral Assistant Professor at the University of Michigan from 2020 to 2023 where my mentor was [David Speyer](http://www-personal.umich.edu/~speyer/) and a Hedrick Assistant Adjunct Professor at UCLA from 2023 to 2025 where my mentor was [Pavel Galashin](https://www.math.ucla.edu/~galashin/).
 
-I am on the job market in the Fall of 2026. Here is my [CV](CV2.pdf) and [Research Statement](RS3.pdf).
+I am on the job market in the Fall of 2025. Here is my [CV](CV2.pdf) and [Research Statement](RS3.pdf).
