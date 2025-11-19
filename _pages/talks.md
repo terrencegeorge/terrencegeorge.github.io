@@ -9,6 +9,7 @@ nav_order: 3
 ---
 
 <ol reversed>
+<li>Colloquium, IMSc Chennai, 2025 </li>
 <li>Colloquium, TIFR-CAM Bangalore, 2025 </li>
 <li>Colloquium, TIFR Mumbai, 2025 </li>
 <li>Colloquium, ISI Bangalore, 2025 </li>
