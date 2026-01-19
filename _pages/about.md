@@ -15,8 +15,8 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
-<p><a href='#'>Office</a>. Math Sciences Building, Room MS 6304.</p>
-<p><a href='#'>Email</a>. tegeorge at math dot ucla dot edu.</p>
+<p><a href='#'>Office</a>. 2-155.</p>
+<p><a href='#'>Email</a>. tegeorge at mit dot edu.</p>
 
 I am a Postdoctoral Associate at MIT where my mentor is [Alexei Borodin](https://math.mit.edu/directory/profile.html?pid=1222). My research lies at the interface of mathematical physics, combinatorics, geometry and probability. Recently, I have been working on discrete integrable systems, total positivity and discrete differential geometry.
 
