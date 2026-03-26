@@ -9,6 +9,8 @@ nav_order: 3
 ---
 
 <ol reversed>
+<li>Richard P. Stanley Seminar in Combinatorics, Harvard University, 2026 </li>
+<li>Colloquium, IIT Bombay, 2026 </li>
 <li>Hamiltonian Systems Seminar, University of Toronto, 2026 </li>
 <li>Integrable Probability Seminar, Columbia University, 2026 </li>
 <li>Colloquium, TIFR-CAM Bangalore, 2026 </li>
