@@ -9,7 +9,9 @@ nav_order: 3
 ---
 
 <ol reversed>
+<li>Probability seminar, Stanford University, 2026 </li>
 <li>Richard P. Stanley Seminar in Combinatorics, Harvard University, 2026 </li>
+<li>Colloquium, ICTS-TIFR, 2026 </li>
 <li>Colloquium, IIT Bombay, 2026 </li>
 <li>Hamiltonian Systems Seminar, University of Toronto, 2026 </li>
 <li>Integrable Probability Seminar, Columbia University, 2026 </li>
@@ -29,7 +31,7 @@ nav_order: 3
 <li>Banff International Research Station workshop: Analytic and Probabilistic Combinatorics, 2022, <a href="https://www.birs.ca/events/2022/5-day-workshops/22w5004/videos/watch/202211171433-George.html">video</a></li>
 <li>Seminar, TIFR-CAM Bangalore, 2022</li>
 <li>Colloquium, Indian Statistical Institute, Bangalore, 2022</li>
-<li>ICTS conference: Combinatorial algebraic geometry-real and tropical, 2022, <a href="https://www.youtube.com/watch?v=tccmW_b9afQ&amp;ab_channel=InternationalCentreforTheoreticalSciences">video</a> </li>
+<li>ICTS-TIFR conference: Combinatorial algebraic geometry-real and tropical, 2022, <a href="https://www.youtube.com/watch?v=tccmW_b9afQ&amp;ab_channel=InternationalCentreforTheoreticalSciences">video</a> </li>
 <li>Integrable probability seminar, MIT, 2022</li>
 <li>JMM: Combinatorial applications of computational geometry and algebraic topology, 2022</li>
 <li>Combinatorics seminar, University of Minnesota, 2022</li>
@@ -46,7 +48,7 @@ nav_order: 3
 <li>Integrable probability seminar, Columbia University, 2019</li>
 <li>Combinatorics seminar, Yale University, 2019</li>
 <li>Algebra and Combinatorics seminar, Indian Institute of Science, 2019</li>
-<li>ICTS conference: Universality in random structures: Interfaces, matrices, sandpiles, 2019</li>
+<li>ICTS-TIFR conference: Universality in random structures: Interfaces, matrices, sandpiles, 2019</li>
 <li>Seminar, Indian Institute of Science, 2018</li>
 <li>Bangalore probability seminar, Indian Statistical Institute, Bangalore, 2018</li>
 <li>Discrete math seminar, Brown University, 2018</li>
