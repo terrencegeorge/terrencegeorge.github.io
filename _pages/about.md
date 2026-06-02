@@ -18,8 +18,8 @@ social: false  # includes social icons at the bottom of the page
 <p><a href='#'>Office</a>. 2-155.</p>
 <p><a href='#'>Email</a>. tegeorge at mit dot edu.</p>
 
-I am a Postdoctoral Associate at MIT where my mentor is [Alexei Borodin](https://math.mit.edu/directory/profile.html?pid=1222). My research lies at the interface of mathematical physics, combinatorics, geometry and probability. Recently, I have been working on discrete integrable systems, total positivity and discrete differential geometry.
+I am a Reader (equivalent to tenure-track assistant professor) at Tata Institute of Fundamental Research-Centre for Applicable Mathematics. My research lies at the interface of mathematical physics, combinatorics, geometry and probability. Recently, I have been working on statistical mechanics, discrete integrable systems, total positivity and discrete differential geometry.
 
-I received my PhD from Brown University in 2020 advised by [Rick Kenyon](https://gauss.math.yale.edu/~rwk25/). I was a Postdoctoral Assistant Professor at the University of Michigan from 2020 to 2023 where my mentor was [David Speyer](http://www-personal.umich.edu/~speyer/) and a Hedrick Assistant Adjunct Professor at UCLA from 2023 to 2025 where my mentor was [Pavel Galashin](https://www.math.ucla.edu/~galashin/).
+I received my PhD from Brown University in 2020 advised by [Rick Kenyon](https://gauss.math.yale.edu/~rwk25/). I was a Postdoctoral Assistant Professor at the University of Michigan from 2020 to 2023 where my mentor was [David Speyer](http://www-personal.umich.edu/~speyer/), a Hedrick Assistant Adjunct Professor at UCLA from 2023 to 2025 where my mentor was [Pavel Galashin](https://www.math.ucla.edu/~galashin/), and a Postdoctoral Associate at MIT from 2025 to 2026 where my mentor was [Alexei Borodin](https://math.mit.edu/directory/profile.html?pid=1222).
 
-I am on the job market in the Fall of 2025. Here is my [CV](CV2.pdf) and [Research Statement](RS3.pdf).
+
