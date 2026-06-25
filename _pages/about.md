@@ -22,6 +22,6 @@ I am a Reader (equivalent to tenure-track assistant professor) at Tata Institute
 
 I got my BS from IISc in 2015 and my PhD from Brown University in 2020 advised by [Rick Kenyon](https://gauss.math.yale.edu/~rwk25/). I was a Postdoctoral Assistant Professor at the University of Michigan from 2020 to 2023 where my mentor was [David Speyer](http://www-personal.umich.edu/~speyer/), a Hedrick Assistant Adjunct Professor at UCLA from 2023 to 2025 where my mentor was [Pavel Galashin](https://www.math.ucla.edu/~galashin/), and a Postdoctoral Associate at MIT from 2025 to 2026 where my mentor was [Alexei Borodin](https://math.mit.edu/directory/profile.html?pid=1222).
 
-Here is my [CV](CV2.pdf).
+Here is my [CV](CV3.pdf).
 
 
