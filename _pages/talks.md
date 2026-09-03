@@ -9,6 +9,11 @@ nav_order: 3
 ---
 
 <ol reversed>
+<li>Geometry and Physical Mathematics Seminar, ICTS, 2026 </li>
+<li>Bangalore Probability Seminar, 2026 </li>
+<li>Colloquium, CMI, 2026 </li>
+<li>Chennai Combinatorics Day, 2026 </li>
+<li>Random Mondays, ISI Bangalore, 2026 </li>
 <li>Probability seminar, Stanford University, 2026 </li>
 <li>Richard P. Stanley Seminar in Combinatorics, Harvard University, 2026 </li>
 <li>Colloquium, ICTS-TIFR, 2026 </li>
