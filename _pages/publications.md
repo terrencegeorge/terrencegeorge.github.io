@@ -2,18 +2,20 @@
 layout: page
 permalink: /publications/
 title: Research
-description: 
-years: 
+description:
+years:
 nav: true
 nav_order: 1
 ---
-## Manuscripts
-<div class="publications">
+
+<div class="publications galashin-papers">
+
+<p class="papers-heading"><strong>Preprints and submitted papers:</strong></p>
+
 {% bibliography -q @misc %}
-</div>
 
-## Published Articles
-<div class="publications">
+<p class="papers-heading"><strong>Accepted and published papers:</strong></p>
+
 {% bibliography -q @article %}
-</div>
 
+</div>
