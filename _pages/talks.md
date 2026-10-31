@@ -9,6 +9,7 @@ nav_order: 3
 ---
 
 <ol reversed>
+<li>Alumni Meeting, TIFR-CAM, 2026</li>
 <li>Geometry and Physical Mathematics Seminar, ICTS, 2026</li>
 <li>Bangalore Probability Seminar, 2026</li>
 <li>Colloquium, CMI, 2026</li>
